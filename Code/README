@@ -1,0 +1,8 @@
+This is the help file for the code. All code must be placed in the same folder.
+
+Included programs:
+1) cylinder_int.py : code for hard/soft analytic case
+2) cylinder_int_num.py : code for hard/soft numerical case
+3) diff_matrix.py : code to find differentiation coefficients using Fornberg's method
+4) empty_cylinder_numerical.py : code for empty hard cylinder (annulus), numerical case
+5) ppolar.py : Code to perform colourmap plots
