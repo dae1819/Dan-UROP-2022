@@ -9,7 +9,6 @@ This repo includes both code and a report.
 
 
 -------------------------------------------------------------------------------------------------------
-
 Report is still a work in progress:
 - [ ] Include backscattering plot
 
