@@ -1,4 +1,4 @@
-# Dan UROP - 2022 #
+# :open_file_folder: Dan UROP - 2022 #
 
 This serves as the repo for the work done on my UROP of 2022. The project was supervised by Professor Richard Craster [1] , and is based off the work done by 
 Samuel Adams in the second year of his PhD [2].
