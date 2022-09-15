@@ -10,7 +10,7 @@ modelling increasingly complicated situations. This repo includes both code and 
 
 
 Report is still a work in progress:
-[] Update backscattering plot 
+- [ ] Include backscattering plot
 
 -------------------------------------------------------------------------------------------------------
 
