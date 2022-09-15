@@ -9,6 +9,10 @@ in order to gain familiarity with the problem, before moving onto finite differe
 modelling increasingly complicated situations. This repo includes both code and a report.
 
 
+Report is still a work in progress:
+[] Update backscattering plot 
+
+-------------------------------------------------------------------------------------------------------
 
 [1] S.D.M Adams. Asymptotic and numerical methods for surface waves and modes in elastic guiding
     structures. PhD thesis, Imperial college London, 2009.
