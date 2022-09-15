@@ -1,4 +1,4 @@
-# :basecamp: Dan UROP
+Dan UROP
 Repo for my UROP (2022)
 
 This serves as the repo for the work done on my UROP of 2022. It is based of the work done by
