@@ -8,6 +8,7 @@ Samuel Adams in the second year of his PhD [1]. The project started off working 
 in order to gain familiarity with the problem, before moving onto finite differences and progressively
 modelling increasingly complicated situations. This repo includes both code and a report.
 
+-------------------------------------------------------------------------------------------------------
 
 Report is still a work in progress:
 - [ ] Include backscattering plot
