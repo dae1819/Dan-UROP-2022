@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Jul 24 17:58:44 2022
+Differentiation matrix, Fornberg method 
 
 @author: Dan
 """
