@@ -278,8 +278,6 @@ r_p = np.linspace(R3_+delr_bp*Nr_p, R3_+delr_bp,Nr_p,endpoint=True)
 
 r_bp=np.hstack((r_p,r_b))
 
-#t=np.arange(0,2*np.pi-delt,delt)
-
 t=np.linspace(0,2*np.pi-delt,Nt_b,endpoint=True)
 
 rr_s,tt_s=np.meshgrid(r_s,t)
