@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Aug 22 21:33:39 2022
+For nicer plots...
 
 @author: Dan
 """
@@ -27,9 +27,7 @@ def ppcolor(rr,tt,ss):
       return
     
     
-    # tt=np.vstack((tt,np.zeros(np.shape(tt)[1])))
-    # rr=np.vstack((rr,rr[0,:]))
-    # ss=np.vstack((ss,ss[0,:]))
+
     
     
     maxr=np.max(rr)
@@ -37,9 +35,9 @@ def ppcolor(rr,tt,ss):
     xx,yy=pol2cart(tt,rr)
 
     plt.pcolor(xx,yy,ss)
-    #shading interp   
+    #shading interp could be added??   
       
-    #axis([-1.1*8/6.2*maxr,1.1*8/6.2*maxr,-1.1*maxr,1.1*maxr])
+    
     plt.xlim([-1.1*8/6.2*maxr,1.1*8/6.2*maxr])
     plt.ylim([-1.1*maxr,1.1*maxr])
     
@@ -62,14 +60,7 @@ def ppcolor(rr,tt,ss):
       	     (n_crosses-1)*maxr*np.sin(2*np.pi*i/n_lines),'o',color='black')
      
       
-      
-      # for i in range(0,n_crosses)
-      #   r_plot=i/(n_crosses-1)*maxr
-      #   text(-r_plot*cos(pi/2-1/20),-r_plot*sin(pi/2-1/20),num2str(r_plot),'color','white')
-      #   text(r_plot*cos(pi/2-1/20),r_plot*sin(pi/2-1/20),num2str(r_plot))
-      
-      #if wasitheld==0
-        #hold off
+     
      
   
     
