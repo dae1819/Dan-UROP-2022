@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Jul  3 18:42:07 2022
+Analytic case, hard cylinder
 
 @author: Dan
 """
