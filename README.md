@@ -11,7 +11,7 @@ This repo includes both code and a report.
 -------------------------------------------------------------------------------------------------------
 Report is still a work in progress:
 - [ ] Include backscattering plot
-- [ ] Still playing around with full cylinder case
+- [ ] Still fixing full cylinder case
 
 -------------------------------------------------------------------------------------------------------
 [1] R.V Craster, https://www.imperial.ac.uk/people/r.craster
