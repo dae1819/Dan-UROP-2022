@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Jul 26 12:07:19 2022
+Hard cylinder, numerical 
 
 @author: Dan
 """
